@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "std-nslog",
+  "versions": [
+    {
+      "commit": "39328076ecd236d574a775dd7e688b879ba1de88",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:28:03.612882+00:00"
+    }
+  ]
+}
