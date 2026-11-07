@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/std-nslog/commit/39328076ecd236d574a775dd7e688b879ba1de88",
       "git:hexsha": "39328076ecd236d574a775dd7e688b879ba1de88",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beeware/std-nslog/commit/b484847dcdac303084b276e943ef1f6650d5e3a0",
